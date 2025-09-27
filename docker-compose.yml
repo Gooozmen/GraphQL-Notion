@@ -1,0 +1,18 @@
+services:
+  sports-booker-auth:
+    image: ${IMAGE_IDENTIFIER}:${IMAGE_TAG}
+    container_name: ${CONTAINER_NAME}
+    build:
+      context: .
+      dockerfile: dockerfile
+    ports:
+      - "5073:80"
+    networks:
+      - dev-net
+    env_file:
+      - .env
+
+networks:
+  dev-net:
+    external: true
+    
