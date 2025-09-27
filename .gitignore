@@ -4,11 +4,14 @@ src/*/bin/
 src/*/obj/
 src/*.user
 
+Output/*
+Dependencies/*
+
 .vs/
 .idea/
 
 
-Tests/obj/*
+Tests/SoapApi.Tests/obj/*
 TestsOutput/*
 
 .env
