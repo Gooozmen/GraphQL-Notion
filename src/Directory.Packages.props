@@ -1,8 +1,8 @@
 <Project>
     <ItemGroup>
-        <PackageVersion Include="HotChocolate.AspNetCore" Version="13.8.6" />
-        <PackageVersion Include="HotChocolate.AspNetCore.Voyager" Version="13.8.6" />
-        <PackageVersion Include="Npgsql" Version="9.0.2" />
-        <PackageVersion Include="Dapper" Version="2.1.35" />
+        <PackageVersion Include="HotChocolate.AspNetCore" Version="13.9.6" />
+        <PackageVersion Include="HotChocolate.AspNetCore.Voyager" Version="10.5.5" />
+        <PackageVersion Include="Npgsql" Version="9.0.3" />
+        <PackageVersion Include="Dapper" Version="2.1.66" />
     </ItemGroup>
 </Project>

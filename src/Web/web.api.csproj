@@ -7,7 +7,7 @@
     <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
-    <AssemblyName>GrapQL.Api</AssemblyName>
+    <AssemblyName>GraphQL.Api</AssemblyName>
     <OutputPath>..\..\Output\</OutputPath>
     <RestorePackagesPath>..\..\Dependencies\Packages\</RestorePackagesPath>
   </PropertyGroup>
